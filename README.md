@@ -58,8 +58,8 @@
 
 
 
-### Name:BINDHUJAA S
-### Register Number: 212224230038
+### Name:DILLIGANESAN K
+### Register Number: 212224100014
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
